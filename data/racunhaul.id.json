@@ -1,6 +1,9 @@
 {
-    "name": "Racun Haul Shopee",
-    "Description": "Pilih dari bawah ini",
+    "shop": {
+        "id": "racunhaul.id",
+        "name": "Racun Haul Shopee",
+        "desc": "Pilih dari bawah ini"
+    },
     "links": [
         {
             "id": 1,
